@@ -1,8 +1,8 @@
-<h2 style="margin-bottom: 0;" align="center">Women Safety Box</h2>
+<h2 style="margin-bottom: 0;" align="center">Women Safety Application </h2>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/15268903/92101573-23b92100-edff-11ea-9a01-73df323c4020.png" height="100" width="100">
-<h3 style="margin-top: 0;" align="center">Women safety app using Background Voice Recognition</h3>
+<h3 style="margin-top: 0;" align="center">Women safety Application</h3>
 <h5 style="margin-top: 0;" align="center">[ University 2nd Year SDP Project-2018 ]</h5>
 </p>
 
