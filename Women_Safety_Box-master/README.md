@@ -1,7 +1,6 @@
 <h2 style="margin-bottom: 0;" align="center">Women Safety Application </h2>
 
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fschool%2Fgitam-deemed-university%2F&psig=AOvVaw29HmVXJ6YGIcAtOruxtocU&ust=1750461545595000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjZqsfP_o0DFQAAAAAdAAAAABAE" height="100" width="100">
 <h3 style="margin-top: 0;" align="center">Women safety Application</h3>
 <h5 style="margin-top: 0;" align="center">[ University Final Year Project ]</h5>
 </p>
@@ -12,29 +11,7 @@ This is an Android App for Women or any Female, which Will Call to an Emergency 
 * Make Sure that "Google" App is Installed on your phone and you give this App proper Access Permission like Call, SMS, Microphone.
 
 
-## App Screenshots
-<table>
-  <tr>
-     <td align="center">Registration</td>
-     <td align="center">Background Voice Recognation, Help Mode, Auto Call & SMS</td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/15268903/44601093-3d313680-a7fd-11e8-9e94-ba3b77d0dfc3.gif"></td>
-    <td valign="top" align="center"><img src="https://user-images.githubusercontent.com/15268903/44601241-ab75f900-a7fd-11e8-92a9-28bbce9630ca.gif"></td>
-  </tr>
- </table>
- <br>
- <table>
-  <tr>
-     <td align="center">Nearby Police and Hospital Location</td>
-     <td align="center">Fast Aid and Self Defence Info</td>
-  </tr>
-  <tr>
-    <td valign="top" align="center"><img src="https://user-images.githubusercontent.com/15268903/44601093-3d313680-a7fd-11e8-9e94-ba3b77d0dfc3.gif"></td>
-    <td valign="top" align="center"><img src="https://user-images.githubusercontent.com/15268903/44601775-65219980-a7ff-11e8-93c2-547ecff322ee.gif"></td>
-  </tr>
- </table>
- <br>
+
  
  ### Built With
  
