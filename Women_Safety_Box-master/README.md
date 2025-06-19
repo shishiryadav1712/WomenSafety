@@ -1,7 +1,6 @@
 <h2 style="margin-bottom: 0;" align="center">Women Safety Application </h2>
 
 <p align="center">
-<h3 style="margin-top: 0;" align="center">Women safety Application</h3>
 <h5 style="margin-top: 0;" align="center">[ University Final Year Project ]</h5>
 </p>
 
